@@ -7,6 +7,7 @@
     "start": "remix-serve build"
   },
   "dependencies": {
+    "@plasmicapp/loader-react": "^1.0.176",
     "@remix-run/node": "^1.7.0",
     "@remix-run/react": "^1.7.0",
     "@remix-run/serve": "^1.7.0",
